@@ -12,11 +12,7 @@ func main() {
 	fmt.Scanln(&n2)
 	fmt.Println("Insira mais um número: ")
 	fmt.Scanln(&n3)
-	fmt.Println("O primeiro é menor que o segundo? ", n1 < n2)
-	fmt.Println("O primeiro é menor que o terceiro? ", n1 < n3)
-	fmt.Println("O segundo é menor que o terceiro? ", n2 < n3)
-	fmt.Println("O segundo é menor que o primeiro? ", n2 < n1)
-	fmt.Println("O terceiro é menor que o primeiro? ", n3 < n1)
-	fmt.Println("O terceiro é menor que o segundo? ", n3 < n2)
-
+	if n1 > n2 && n1 > n3 {
+		fmt.Println(n1, "É maior")
+	}
 }
