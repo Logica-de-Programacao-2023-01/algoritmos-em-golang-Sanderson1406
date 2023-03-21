@@ -9,8 +9,11 @@ func main() {
 	fmt.Scanln(&n1)
 	fmt.Println("Insira outro número: ")
 	fmt.Scanln(&n2)
-	fmt.Println("O primeiro número == segundo número é ", n1 == n2)
-	fmt.Println("O primeiro número > segundo número é ", n1 > n2)
-	fmt.Println("O primeiro número < segundo número é ", n1 < n2)
-	fmt.Println("O primeiro número != segundo número é ", n1 != n2)
+	if n1 == n2 {
+		fmt.Println("O primeiro número é igual ao segundo número")
+	} else if n1 > n2 {
+		fmt.Println("O primeiro número é maior que o segundo número")
+	} else if n1 < n2 {
+		fmt.Println("O primeiro número é menor que segundo número")
+	}
 }
