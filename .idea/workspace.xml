@@ -48,15 +48,7 @@
     "settings.editor.selected.configurable": "com.goide.configuration.GoLibrariesConfigurableProvider"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build 3_5.go">
-    <configuration name="go build 2_2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos-em-golang-Sanderson1406" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/2_2.go" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build 3_6.go">
     <configuration name="go build 3_1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-Sanderson1406" />
       <working_directory value="$PROJECT_DIR$" />
@@ -89,13 +81,21 @@
       <filePath value="$PROJECT_DIR$/3_5.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build 3_6.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-Sanderson1406" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/3_6.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 3_6.go" />
         <item itemvalue="Go Build.go build 3_5.go" />
         <item itemvalue="Go Build.go build 3_3.go" />
         <item itemvalue="Go Build.go build 3_2.go" />
         <item itemvalue="Go Build.go build 3_1.go" />
-        <item itemvalue="Go Build.go build 2_2.go" />
       </list>
     </recent_temporary>
   </component>
