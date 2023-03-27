@@ -9,7 +9,7 @@ func main() {
 	fmt.Scanln(&n1)
 	fmt.Println("Insira outro número: ")
 	fmt.Scanln(&n2)
-	if n1 < n2 {
+	if n1 > n2 {
 		fmt.Println(n2, " é menor")
 	} else if n2 > n1 {
 		fmt.Println(n1, "é menor")
