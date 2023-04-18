@@ -3,9 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	var n1 uint32
-	var n2 uint32
-	var n3 uint32
+	var n1, n2, n3 uint32
 	fmt.Println("Insira um número: ")
 	fmt.Scanln(&n1)
 	fmt.Println("Insira outro número: ")

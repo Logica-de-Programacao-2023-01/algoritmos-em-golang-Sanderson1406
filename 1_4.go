@@ -3,9 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	var p1 float64
-	var p2 float64
-	var p3 float64
+	var p1, p2, p3 float64
 	var x1 float64 = 2
 	var x2 float64 = 3
 	var x3 float64 = 5

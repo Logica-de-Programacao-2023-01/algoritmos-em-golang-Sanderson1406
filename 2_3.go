@@ -7,8 +7,8 @@ func main() {
 	fmt.Println("Insira um número: ")
 	fmt.Scanln(&n)
 	if n%2 == 0 {
-		fmt.Println(n, "é par")
+		fmt.Println(n, " é par")
 	} else {
-		fmt.Println(n, "é impar")
+		fmt.Println(n, " é impar")
 	}
 }
