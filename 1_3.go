@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	var peso, altura int
+	var peso, altura float64
 	fmt.Println("Insira seu peso: ")
 	fmt.Scan(&peso)
 	fmt.Println("Insira seua altura: ")

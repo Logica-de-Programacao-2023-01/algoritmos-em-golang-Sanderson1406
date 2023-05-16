@@ -3,9 +3,9 @@ package main
 import "fmt"
 
 func main() {
-	var valor uint64
-	var valor2 uint64
-	var valor3 uint64
+	var valor float64
+	var valor2 float64
+	var valor3 float64
 	fmt.Println("Qual o valor do produto? ")
 	fmt.Scan(&valor)
 	valor2 = valor * 10 / 100
