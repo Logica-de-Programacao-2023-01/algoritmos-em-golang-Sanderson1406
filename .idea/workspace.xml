@@ -6,10 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="0dac8a15-e434-43dc-b0e2-af945cb04fc7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_3.go" beforeDir="false" afterPath="$PROJECT_DIR$/1_3.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_6.go" beforeDir="false" afterPath="$PROJECT_DIR$/1_6.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_8.go" beforeDir="false" afterPath="$PROJECT_DIR$/1_8.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_9.go" beforeDir="false" afterPath="$PROJECT_DIR$/1_9.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_10.go" beforeDir="false" afterPath="$PROJECT_DIR$/2_10.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_7.go" beforeDir="false" afterPath="$PROJECT_DIR$/2_7.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_8.go" beforeDir="false" afterPath="$PROJECT_DIR$/2_8.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_1.go" beforeDir="false" afterPath="$PROJECT_DIR$/3_1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_4.go" beforeDir="false" afterPath="$PROJECT_DIR$/3_4.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_6.go" beforeDir="false" afterPath="$PROJECT_DIR$/3_6.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_7.go" beforeDir="false" afterPath="$PROJECT_DIR$/3_7.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_9.go" beforeDir="false" afterPath="$PROJECT_DIR$/3_9.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +52,13 @@
     "configurable.GoLibrariesConfigurable.is.expanded": "true",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "C:/Users/sanderson.oliveira/repos/algoritmos-em-golang-Sanderson1406",
+    "last_opened_file_path": "C:/Users/sande/GitHub/Faculdade/2023.1/algoritmos-em-golang-Sanderson1406",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "settings.editor.selected.configurable": "com.goide.configuration.GoLibrariesConfigurableProvider"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build 2_2.go">
+  <component name="RunManager" selected="Go Build.go build 3_9.go">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="algoritmos-em-golang-Sanderson1406" />
       <working_directory value="$PROJECT_DIR$" />
@@ -64,44 +68,44 @@
       <filePath value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 1_10.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 3_5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-Sanderson1406" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/1_10.go" />
+      <filePath value="$PROJECT_DIR$/3_5.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 1_8.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 3_6.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-Sanderson1406" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/1_8.go" />
+      <filePath value="$PROJECT_DIR$/3_6.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 1_9.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 3_7.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-Sanderson1406" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/1_9.go" />
+      <filePath value="$PROJECT_DIR$/3_7.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 2_1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 3_8.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-Sanderson1406" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/2_1.go" />
+      <filePath value="$PROJECT_DIR$/3_8.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 2_2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 3_9.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-Sanderson1406" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/2_2.go" />
+      <filePath value="$PROJECT_DIR$/3_9.go" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
@@ -116,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build 2_2.go" />
-        <item itemvalue="Go Build.go build 2_1.go" />
-        <item itemvalue="Go Build.go build 1_10.go" />
-        <item itemvalue="Go Build.go build 1_9.go" />
-        <item itemvalue="Go Build.go build 1_8.go" />
+        <item itemvalue="Go Build.go build 3_9.go" />
+        <item itemvalue="Go Build.go build 3_8.go" />
+        <item itemvalue="Go Build.go build 3_7.go" />
+        <item itemvalue="Go Build.go build 3_6.go" />
+        <item itemvalue="Go Build.go build 3_5.go" />
       </list>
     </recent_temporary>
   </component>

@@ -37,7 +37,9 @@ func main() {
 		} else if n6 == 0 {
 			fmt.Println("Exite um 0")
 			break
+		} else {
+			fmt.Println("A média é: ", resul)
 		}
 	}
-	fmt.Println("A média é: ", resul)
+
 }

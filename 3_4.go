@@ -4,8 +4,7 @@ import "fmt"
 
 func main() {
 	n := 3
-	for i := 0; i < 30; i++ {
+	for i := 0; i <= 10; i++ {
 		fmt.Println(n * i)
-		i++
 	}
 }

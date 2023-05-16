@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	var dia uint32
+	var dia int32
 	fmt.Println("Qual a contagem do dia em números? ")
 	fmt.Scan(&dia)
 	if dia == 1 {
